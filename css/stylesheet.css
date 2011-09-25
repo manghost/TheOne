@@ -91,7 +91,8 @@ a {
 	margin-left:215px;
 	}
 #nav-word  li{
-	display:inline;
+
+	display:none;
 	margin:34px;
 	font-family:Georgia, "Times New Roman", Times, serif;
 	font-weight:500;
